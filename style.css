@@ -1,0 +1,59 @@
+body {
+  background-color: #eaeaea;
+}
+
+nav {
+  border-bottom: 2px outset #bbbbbb;
+  padding: 2%;
+  margin-bottom: 5%;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-input {
+  display: block;
+  border-radius: 4px;
+}
+
+.required {
+  color: red;
+}
+
+.sub-choices {
+  padding: 1% 0 0 3%;
+  font-size: .85em;
+}
+
+.success {
+  color: green;
+}
+
+#nav {
+  background-color: #695b80;
+  color: white;
+}
+
+#nav button {
+  border-radius: 5px;
+}
+
+#reset {
+  background-color: darkred;
+}
+
+#site-logo {
+  width: 10%;
+  margin: 0 auto;
+  display: block;
+}
+
+#site-title {
+  font-size: 2em;
+  text-align: center;
+}
+
+#call-entry-form {
+  padding: 0 0 0 5%;
+}
